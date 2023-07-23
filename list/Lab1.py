@@ -9,7 +9,6 @@ myIntList= [1,2,3,4,5,6,7,8]
 print(type(myIntList)) # <class 'list'>
 print(myIntList) # [1, 2, 3, 4, 5, 6, 7, 8]
 
-
 myStringList=["A","B","APIPOTHI","YOUTUBE"]
 print(myStringList) # ['A', 'B', 'APIPOTHI', 'YOUTUBE']
 print(type(myStringList)) # <class 'list'>
